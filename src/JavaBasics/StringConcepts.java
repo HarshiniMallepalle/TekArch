@@ -48,7 +48,7 @@ public class StringConcepts {
 		System.out.println(s.endsWith("QA "));//case sensitive too//true
 		System.out.println(s.contains("For"));//case sensitive too//false
 		System.out.println(s.equals("Java Basics for Selenium QA "));
-		System.out.println(s.isBlank());//it won't take blank place
+		//System.out.println(s.isBlank());//it won't take blank place
 		System.out.println(s.isEmpty());//it consider blank place also
 		System.out.println(s.contains("Jell"));
 		System.out.println("*******************");
